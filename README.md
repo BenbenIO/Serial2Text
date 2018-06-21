@@ -5,7 +5,7 @@ The idea came from the difficulties to save the content of the serial etheir fro
 For sensor calibration, or debugging purpose it's important to get log, or data from the boards.
 Serail2Text try to be a solution to archive these data.
 
-<img src="/image/GUI.JPG" width="250"> <img src="/image/errormsg.JPG" width="250"> 
+<img src="/images/GUI.JPG" width="250"> <img src="/images/errormsg.JPG" width="250"> 
 
 The project was born for a personal need, but was really instructive and help me to build skill on GUI interface, threading and python programming...
 Hope it's can be helpful for you too :)
@@ -19,7 +19,7 @@ With Serial2Text you can:
 * Add a file hearder on the saved serial (archive purpose / pandas columns...)
 * Live graph (under development)
 
-<img src="/image/sendcmd.JPG" width="250">        <img src="/image/hearder.JPG" width="250">
+<img src="/images/sendcmd.JPG" width="250">        <img src="/images/hearder.JPG" width="250">
 
 # Issues
 The program was tested with several serial configuration, with different board (Arduino Uno, Arduino Nano, ESP32-devkitc).
@@ -35,6 +35,6 @@ In this Github, you will find:
 * Saved serial content example
 * An Executable code (under development) 
 
-<img src="/image/GUIwithtext.JPG" width="250">
+<img src="/images/GUIwithtext.JPG" width="250">
 
 Do not hesitate in you have any question or advice :)
